@@ -43,6 +43,6 @@ A cat face image generator created using Generative Adversarial Networks (GAN). 
 
 Here are some examples of generated cat face images:
 
-![Generated Cat Image 1](demonstration/e50e2a14-a439-488d-90de-926ec891a3c0.png)
+![Generated Cat Image 1](demonstaration/e50e2a14-a439-488d-90de-926ec891a3c0.png)
 
 <br>

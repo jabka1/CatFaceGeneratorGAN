@@ -35,7 +35,7 @@ A cat face image generator created using Generative Adversarial Networks (GAN). 
    ```bash
    jupyter lab
    ```
-4. Open the notebook for training and generating cat faces in your browser.
+4. Open the notebook.
 
 <br>
 

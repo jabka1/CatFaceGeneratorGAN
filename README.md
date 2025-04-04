@@ -17,7 +17,7 @@ A cat face image generator created using Generative Adversarial Networks (GAN). 
 - NumPy
 - Matplotlib
 - GAN (DCGAN architecture)
-- Kaggle Kernels (with GPU)
+- Kaggle with GPU P100
 
 <br>
 
